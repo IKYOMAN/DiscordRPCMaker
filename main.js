@@ -34,7 +34,7 @@ if (id !== undefined) {
 	if (options.largeimage !== '') {
 		activity.largeImageKey = options.largeimage
 		// If you change this and some asks about this, please still give me credit :)
-		activity.largeImageText = "Made with ThatOneCalculator's Discord RPC Maker (v2.1.1 CLI)!"
+
 	}
 	if (options.smallimage !== '') {
 		activity.smallImageKey = options.smallimage
